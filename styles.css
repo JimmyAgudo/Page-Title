@@ -1,0 +1,37 @@
+h1{
+    text-align:center;
+    color:green;
+}
+p{
+   text-align:center; 
+   color:red;
+   font-size:29px;
+}
+button{
+    display:block;
+    text-align:center;
+}
+.l{
+    display:flex;
+    width:40%;
+}
+.a{
+    width:200%;
+    text-align:center;
+    right:10px;
+}
+.o{
+    display:flex;
+    height:40%;
+}
+.b{
+    height:40%;
+     text-align:center;
+}
+body{
+    background:url("https://www.merriam-webster.com/assets/mw/images/gallery/gal-global-footer-recirc/image1481409085-5237-86a975836ef4eb1c5a9f32dbb6f80dbd@1x.jpg");
+    text-align:center;
+    
+}
+
+
